@@ -4,12 +4,23 @@ Core Normal Portal Gun Teleportation System, Menu System, and High Quality Mirro
 
 CONTROLS
 ------------------------
-Left Trigger - Activates normal portal gun
-X - Activates Map Portal gun
-Y - Alternates maps / people
-Right Trigger - Places portal
-Left Grip - Activate menu
-Right Grip - Alternate normal portal gun portals
+Left Trigger 
+- Activates normal portal gun
+  
+X 
+- Activates Map Portal gun
+  
+Y 
+- Alternates maps / people
+  
+Right Trigger 
+- Places portal
+  
+Left Grip 
+- Activate menu
+  
+Right Grip 
+- Alternate normal portal gun portals
 
 FEATURES
 ------------------------
