@@ -2,15 +2,15 @@
 
 A standalone Gorilla Tag / BepInEx portal gun mod based on the Seralyth Menu source.
 
-This build keeps the Seralyth-style hand menu and portal runtime, but the visible menu is trimmed down to portal controls.
+A portal gun mod based off of Rick and Morty.
 
 ## Controls
 
 - Left Grip: open the menu.
 - Left Trigger: toggle the normal portal gun.
 - X: toggle the map portal gun.
-- Y: cycle map targets while using the map portal gun.
-- ActivateKeyboard on the normal portal gun: toggles player portal mode.
+- Y: cycle map/people targets while using the map portal gun / normal portal gun.
+- Right Trigger: Fire the portal
 
 ## Menu
 
@@ -20,6 +20,9 @@ Main:
 - Portal Gun
 - Map Portal Gun
 - Destroy Menu
+
+- People portal gun, derived from the normal portal gun, click the square button and use Y to alternate
+- Code Portal Gun, derived from the Map portal gun, click the square button and type the code, then shoot the portal to teleport. MUST clear the code to resort back to normal map teleportation.
 
 Settings:
 
