@@ -27,16 +27,6 @@ Settings:
 - Portal Sounds Through Mic
 - High Quality Portals
 
-## Build
-
-Open `SeralythMenu.csproj` in Visual Studio, then build Debug or Release.
-
-Debug output:
-
-```text
-bin/Debug/netstandard2.1/IDOHAH's R&M Portal Gun Debug.dll
-bin/Debug/netstandard2.1/IDOHAH's R&M Portal Gun Debug.pdb
-```
 
 ## License
 
