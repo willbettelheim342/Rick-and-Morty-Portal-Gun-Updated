@@ -1,38 +1,43 @@
-# Rick-and-Morty-Portal-Gun-Updated
-A custom gorilla tag portal gun mod made by me (IDOHAH).
-Core Normal Portal Gun Teleportation System, Menu System, and High Quality Mirrors made by Seralyth
+# IDOHAH's R&M Portal Gun
 
-CONTROLS
-------------------------
-Left Trigger 
-- Activates normal portal gun
-  
-X 
-- Activates Map Portal gun
-  
-Y 
-- Alternates maps / people
-  
-Right Trigger 
-- Places portal
-  
-Left Grip 
-- Activate menu
-  
-Right Grip 
-- Alternate normal portal gun portals
+A standalone Gorilla Tag / BepInEx portal gun mod based on the Seralyth Menu source.
 
-FEATURES
-------------------------
+This build keeps the Seralyth-style hand menu and portal runtime, but the visible menu is trimmed down to portal controls.
 
-Normal Portal Gun
-- Shows the coordinates on the portal gun, press right grip to alternate the portals to place down, works like the garry's mod portal gun.
+## Controls
 
-  People Portal Gun
-  - Press the square button on the normal portal gun to activate, and press Y to alternate people. Places a portal somewhere around the player you teleport to.
-  
-Map Portal Gun
-- Transports you between different maps, do NOT use GTFC, Arcade, Bayou, Rotating or Virtual Stump, unless you wanna go to the void.
+- Left Grip: open the menu.
+- Left Trigger: toggle the normal portal gun.
+- X: toggle the map portal gun.
+- Y: cycle map targets while using the map portal gun.
+- ActivateKeyboard on the normal portal gun: toggles player portal mode.
 
-  Code Portal Gun
-  - Press the square button on the Map portal gun to turn the keyboard on, type in a code, then place a portal and it will take you there. Portal auto places in forest.
+## Menu
+
+Main:
+
+- Settings
+- Portal Gun
+- Map Portal Gun
+- Destroy Menu
+
+Settings:
+
+- Disable Portal Mirrors
+- Portal Sounds Through Mic
+- High Quality Portals
+
+## Build
+
+Open `SeralythMenu.csproj` in Visual Studio, then build Debug or Release.
+
+Debug output:
+
+```text
+bin/Debug/netstandard2.1/IDOHAH's R&M Portal Gun Debug.dll
+bin/Debug/netstandard2.1/IDOHAH's R&M Portal Gun Debug.pdb
+```
+
+## License
+
+This project is derived from Seralyth Menu and remains licensed under the GNU GPL v3 or later. Keep the included `LICENSE` file with releases/source distributions.
