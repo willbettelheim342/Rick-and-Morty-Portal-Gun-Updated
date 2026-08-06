@@ -11,6 +11,7 @@ A portal gun mod based off of Rick and Morty.
 - X: toggle the map portal gun.
 - Y: cycle map/people targets while using the map portal gun / normal portal gun.
 - Right Trigger: Fire the portal
+- Ensure to clear the text of the code gun to go back to the normal map gun
 
 ## Menu
 
